@@ -39,7 +39,7 @@
     * I used Water Fall Design Method
     
     
-    <img src="(https://user-images.githubusercontent.com/77936621/209389329-90c58181-5aa6-4fca-973b-521305edd2ee.png)" width="50%" height="50%">
+    <img src="https://user-images.githubusercontent.com/77936621/209389329-90c58181-5aa6-4fca-973b-521305edd2ee.png" width="50%" height="50%">
 
 
   3- Requirements :
