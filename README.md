@@ -36,7 +36,7 @@
   2- Design Method :
     *I used Water Fall Design Method
     
-    ![Image]([Icon-pictures.png](https://user-images.githubusercontent.com/77936621/209381919-0f033c62-eea0-4950-aeb1-9a354c230711.png)
+    <img src="/d/Embedded_Diploma/waterfall.png" />
 
 
 
