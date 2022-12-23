@@ -49,11 +49,12 @@
 ![requirement](https://user-images.githubusercontent.com/77936621/209389537-8e7beac7-e0d7-44ab-a58c-4e9115e23e17.png)
 
 
+
   4- Space Exploration/Partioning :
   
     * Used STM32F103C6 SOC Which Based On Arm Cortex–M3 Micro Processor Which Specifications Are :
-    
       * ARM 32-bit Cortex™-M3 CPU Core 72 MHz maximum frequency,1.25 DMIPS/MHz (Dhrystone 2.1) performance at 0 wait state memory access
+    
       
       
   5- System Analysis :
