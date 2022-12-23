@@ -18,6 +18,7 @@
   * System Design
   
  1- Case Study
+ 
   * A Client Expects To Deliver The Software of The Following System :
   
     * Specifications :
@@ -34,11 +35,19 @@
       * Versioning  The ”keep Track Of Measured Value”  Option is not Modeled in The First Version Of The Design
       
   2- Design Method :
-    *I used Water Fall Design Method
+  
+    * I used Water Fall Design Method
     
-   ![waterfall](https://user-images.githubusercontent.com/77936621/209385391-aa63387c-fc04-4f61-8418-a5bc723086ae.png)
+      ![waterfall](https://user-images.githubusercontent.com/77936621/209385391-aa63387c-fc04-4f61-8418-a5bc723086ae.png)
 
+  3- Requirements :
+    * Requirement Diagram :
+    
+    ![requirement](https://user-images.githubusercontent.com/77936621/209388380-654ebcd8-08c6-4d7b-935f-2ea9fce0fe68.png)
 
+    
+      
+      
 
 
 
