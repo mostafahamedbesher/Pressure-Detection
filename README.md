@@ -38,13 +38,15 @@
   
     * I used Water Fall Design Method
     
-    ![waterfall](https://user-images.githubusercontent.com/77936621/209385391-aa63387c-fc04-4f61-8418-a5bc723086ae.png)
+    ![waterfall](https://user-images.githubusercontent.com/77936621/209388877-c4c87289-95c7-4a95-982e-e4b5a046c39d.png)
+
 
   3- Requirements :
   
     * Requirement Diagram :
     
-    ![requirement](https://user-images.githubusercontent.com/77936621/209388380-654ebcd8-08c6-4d7b-935f-2ea9fce0fe68.png)
+    ![requirement](https://user-images.githubusercontent.com/77936621/209388954-52012033-7c6b-4508-9f6b-f68f3fbdf571.png)
+
 
     
       
