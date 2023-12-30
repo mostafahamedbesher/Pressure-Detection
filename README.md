@@ -3,9 +3,7 @@
 
 ## Description
 
-* Pressure-Detection Function Is To Detect High Pressure in a Plane Cabin. If High Pressure Detected , It Raises Alarm 
-  Which Is Turnning On Led For 60 Seconds.
-* Design of this project based on UML Diagrams.
+Conceived and developed a pressure-detection function aimed at identifying elevated pressure levels within an aircraft cabin. Upon detecting high pressure, an alarm is triggered, activating an LED for a duration of 60 seconds. The project's design was meticulously crafted based on UML diagrams, emphasizing a systematic and well-structured approach to system development. This undertaking, named "Pressure Detection," highlights my proficiency in designing and implementing embedded systems with a focus on safety-critical functionalities.
 
 ## Project Design
 
